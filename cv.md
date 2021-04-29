@@ -16,7 +16,7 @@
 GitHub [alfa4mail](https://github.com/alfa4mail).
 
 ## Experience
-* Developed apps for windows and android:
+Developed apps for windows and android:
 * [Android Application](https://play.google.com/store/apps/details?id=com.screenleap.android.Screenleap)
 * [Windows Application](https://www.screenleap.com/desktop-screen-share)
 
