@@ -3,9 +3,6 @@
 ## Contacts
 * E-mail: alfa4mail@gmail.com
 
-## Summary
-2013-2019 Worked in several companies of Silicon Valley.
-
 ## Skills
 * C++ / WinAPI / MFC / Visual Studio
 * Java / SDK / NDK / Android Studio
@@ -25,6 +22,4 @@
 * [Windows Application](https://www.screenleap.com/desktop-screen-share)
 
 ## Education 
-* Higher Education 2005, Engineer Programmer
-
-* I consider positions only at remote work 
+* Higher Education 2005, Software Engineer
